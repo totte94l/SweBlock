@@ -1,7 +1,7 @@
 # SweBlock by CajanSE
 # WIP
-akamaized.net
-fwmrm.net
+tvm-tv4-freewheel.akamaized.net
+80276.v.fwmrm.net
 gnsnpaw.com
-youboranqs01.com
-a2d.tv
+infinity-c37.youboranqs01.com
+vod.streaming.a2d.tv
